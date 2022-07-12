@@ -1,1 +1,14 @@
 # Normalize-image-opencv
+
+RGB normalization in opencv
+
+
+## Normalization equation
+
+![equation](https://akash0x53.github.io/images/norm/eq.png)
+
+## Example
+
+| Input | Output     | 
+| :-------- | :------- | 
+| ![original](original.png) | ![normalize](norm.png) | 
