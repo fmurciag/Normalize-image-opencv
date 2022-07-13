@@ -11,4 +11,6 @@ RGB normalization in opencv
 
 | Input | Output     | 
 | :-------- | :------- | 
-| ![original](original.png) | ![normalize](norm.png) | 
+| ![original](dorada.jpg) | ![normalize](norm_dorada.jpg) |
+| ![original](salmonete.jpg) | ![normalize](norm_salmonete.jpg) |
+| ![original](pargo.jpg) | ![normalize](norm_pargo.jpg) |
